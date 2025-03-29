@@ -8,6 +8,8 @@ import RecipeGeneration from "./pages/Recipegenerator";
 import SavedRecipe from "./pages/Savedrecipes";
 import Vendors from "./pages/Vendors";
 import Recipes from "./pages/Recipes";
+import Loader from "./components/Loader";
+import Login from "./pages/Login";
 
 const App = () => {
   const [recipes, setRecipes] = useState([]);
@@ -37,6 +39,7 @@ const App = () => {
   return (
     <Router>
       <div className="min-h-screen bg-gray-100 flex flex-col">
+        <Loader />
         <Header />
         <main className="flex-grow">
           <Routes>
@@ -56,6 +59,7 @@ const App = () => {
             <Route path="/saved" element={<SavedRecipe />} />
             <Route path="/vendors" element={<Vendors />} />
             <Route path="/recipe" element={<Recipes />} />
+            <Route path="/login" element={<Login />} />
           </Routes>
         </main>
         <Footer />

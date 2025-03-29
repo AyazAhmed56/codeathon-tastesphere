@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Classic Lasagna",
+    "image": "/images/lasagna.jpg",
+    "description": "A hearty Italian classic with layers of cheese, sauce, and pasta."
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "image": "/images/chicken-tikka.jpg",
+    "description": "A flavorful, creamy Indian dish made with spiced grilled chicken."
+  },
+  {
+    "title": "Vegetarian Sushi Rolls",
+    "image": "/images/sushi.jpg",
+    "description": "Fresh and healthy sushi rolls with avocado, cucumber, and carrots."
+  },
+  {
+    "title": "Margherita Pizza",
+    "image": "/images/pizza.jpg",
+    "description": "Classic Neapolitan pizza with fresh tomatoes, mozzarella, and basil."
+  },
+  {
+    "title": "Beef Stroganoff",
+    "image": "/images/stroganoff.jpg",
+    "description": "A creamy Russian dish with sautéed beef and mushrooms."
+  },
+  {
+    "title": "Pad Thai",
+    "image": "/images/pad-thai.jpg",
+    "description": "A popular Thai noodle dish with shrimp, peanuts, and lime."
+  },
+  {
+    "title": "French Croissant",
+    "image": "/images/croissant.jpg",
+    "description": "Flaky, buttery pastry perfect for breakfast."
+  },
+  {
+    "title": "Greek Salad",
+    "image": "/images/greek-salad.jpg",
+    "description": "A refreshing salad with feta cheese, olives, and cucumbers."
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "image": "/images/carbonara.jpg",
+    "description": "A Roman pasta dish with eggs, cheese, pancetta, and pepper."
+  },
+  {
+    "title": "Falafel Wrap",
+    "image": "/images/falafel.jpg",
+    "description": "Middle Eastern wrap with crispy falafel, hummus, and fresh veggies."
+  },
+  {
+    "title": "Tandoori Chicken",
+    "image": "/images/tandoori.jpg",
+    "description": "A spicy, roasted Indian chicken dish marinated in yogurt."
+  },
+  {
+    "title": "Fish and Chips",
+    "image": "/images/fish-chips.jpg",
+    "description": "Classic British meal with crispy battered fish and fries."
+  },
+  {
+    "title": "Chocolate Brownie",
+    "image": "/images/brownie.jpg",
+    "description": "Rich and fudgy chocolate dessert."
+  },
+  {
+    "title": "Avocado Toast",
+    "image": "/images/avocado-toast.jpg",
+    "description": "Simple and delicious toast topped with mashed avocado and seasonings."
+  },
+  {
+    "title": "Biryani",
+    "image": "/images/biryani.jpg",
+    "description": "Aromatic Indian rice dish cooked with spices and meat."
+  },
+  {
+    "title": "Ramen",
+    "image": "/images/ramen.jpg",
+    "description": "Japanese noodle soup with broth, meat, and vegetables."
+  },
+  {
+    "title": "Caesar Salad",
+    "image": "/images/caesar-salad.jpg",
+    "description": "Crisp romaine lettuce with Caesar dressing and croutons."
+  },
+  {
+    "title": "Apple Pie",
+    "image": "/images/apple-pie.jpg",
+    "description": "Classic American dessert with spiced apple filling."
+  },
+  {
+    "title": "Mango Sticky Rice",
+    "image": "/images/mango-sticky-rice.jpg",
+    "description": "Traditional Thai dessert with sweet coconut rice and mango."
+  },
+  {
+    "title": "Korean BBQ",
+    "image": "/images/korean-bbq.jpg",
+    "description": "Grilled marinated meat served with side dishes."
+  }
+]

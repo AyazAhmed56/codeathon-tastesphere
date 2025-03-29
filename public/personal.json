@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Aunty Mei's Dumplings",
+    "speciality": "Handmade Dumplings",
+    "experience": 15,
+    "address": "123 Chinatown St, New York, NY"
+  },
+  {
+    "name": "Raj’s Spices",
+    "speciality": "Authentic Indian Spices",
+    "experience": 20,
+    "address": "45 Curry Lane, San Francisco, CA"
+  },
+  {
+    "name": "Pablo’s Street Tacos",
+    "speciality": "Mexican Street Tacos",
+    "experience": 10,
+    "address": "789 Taco Ave, Los Angeles, CA"
+  },
+  {
+    "name": "Luigi’s Pizzeria",
+    "speciality": "Neapolitan Pizza",
+    "experience": 25,
+    "address": "321 Italia Rd, Chicago, IL"
+  },
+  {
+    "name": "Yuki’s Sushi Bar",
+    "speciality": "Traditional Sushi",
+    "experience": 18,
+    "address": "876 Sakura St, Seattle, WA"
+  },
+  {
+    "name": "Berlin Bratwurst",
+    "speciality": "German Sausages",
+    "experience": 12,
+    "address": "654 Beer Garden Ln, Austin, TX"
+  },
+  {
+    "name": "Baker’s Delight",
+    "speciality": "Freshly Baked Pastries",
+    "experience": 30,
+    "address": "432 Dough St, Boston, MA"
+  },
+  {
+    "name": "Mamma’s Lasagna",
+    "speciality": "Home-style Italian Lasagna",
+    "experience": 22,
+    "address": "567 Pasta Ave, Miami, FL"
+  },
+  {
+    "name": "The Greek Olive",
+    "speciality": "Authentic Greek Gyros",
+    "experience": 17,
+    "address": "987 Athens Blvd, Denver, CO"
+  },
+  {
+    "name": "BBQ King",
+    "speciality": "Southern BBQ Ribs",
+    "experience": 28,
+    "address": "741 Smokehouse Dr, Nashville, TN"
+  },
+  {
+    "name": "Parisian Crepes",
+    "speciality": "Classic French Crepes",
+    "experience": 14,
+    "address": "258 Eiffel Ln, New Orleans, LA"
+  },
+  {
+    "name": "Seaside Lobster",
+    "speciality": "Maine Lobster Rolls",
+    "experience": 26,
+    "address": "369 Ocean Blvd, Portland, ME"
+  },
+  {
+    "name": "Curry Delight",
+    "speciality": "Traditional Indian Curries",
+    "experience": 19,
+    "address": "159 Spice St, Houston, TX"
+  },
+  {
+    "name": "Kebab Express",
+    "speciality": "Turkish Kebabs",
+    "experience": 16,
+    "address": "753 Istanbul Ave, Orlando, FL"
+  },
+  {
+    "name": "Dim Sum Palace",
+    "speciality": "Authentic Chinese Dim Sum",
+    "experience": 21,
+    "address": "852 Dragon St, San Diego, CA"
+  },
+  {
+    "name": "Tuscany Trattoria",
+    "speciality": "Rustic Italian Cuisine",
+    "experience": 24,
+    "address": "951 Tuscan Rd, Philadelphia, PA"
+  },
+  {
+    "name": "Vegan Bliss",
+    "speciality": "Plant-Based Dishes",
+    "experience": 12,
+    "address": "753 Greenway Blvd, Portland, OR"
+  },
+  {
+    "name": "Churro Heaven",
+    "speciality": "Spanish Churros",
+    "experience": 11,
+    "address": "635 Fiesta St, Phoenix, AZ"
+  },
+  {
+    "name": "Argentinian Grill",
+    "speciality": "Traditional Asado BBQ",
+    "experience": 27,
+    "address": "284 Patagonia Ln, Dallas, TX"
+  },
+  {
+    "name": "Peruvian Flavors",
+    "speciality": "Ceviche and Lomo Saltado",
+    "experience": 23,
+    "address": "369 Andes Ave, San Jose, CA"
+  }
+]
