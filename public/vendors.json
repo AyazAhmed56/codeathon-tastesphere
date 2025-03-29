@@ -1,0 +1,139 @@
+{
+  "vendors": [
+    {
+      "name": "Grandma's Secret Spices",
+      "description": "Authentic homemade spice blends passed down through generations.",
+      "reviews": [
+        "Absolutely love the rich aroma!",
+        "Takes my dishes to the next level!",
+        "Best traditional spice mix I’ve tried!"
+      ]
+    },
+    {
+      "name": "Tandoori Treats",
+      "description": "A stall serving delicious tandoori dishes straight from the clay oven.",
+      "reviews": [
+        "Perfectly charred and flavorful!",
+        "The best tandoori in town!",
+        "Great texture and taste!"
+      ]
+    },
+    {
+      "name": "Mama’s Pickles",
+      "description": "Homemade pickles using organic ingredients and traditional methods.",
+      "reviews": [
+        "Tastes just like my grandmother's!",
+        "Perfect balance of tangy and spicy!",
+        "Addictive flavors!"
+      ]
+    },
+    {
+      "name": "Biryani Bliss",
+      "description": "Mouth-watering biryani cooked with fragrant spices and tender meat.",
+      "reviews": [
+        "The best biryani I’ve ever had!",
+        "Perfectly spiced and full of flavor!",
+        "Aromatic and delicious!"
+      ]
+    },
+    {
+      "name": "Street Dosa Hub",
+      "description": "Crispy and delicious South Indian dosas made fresh to order.",
+      "reviews": [
+        "Crispy, delicious, and full of flavor!",
+        "The chutney is a game changer!",
+        "Authentic and freshly made!"
+      ]
+    },
+    {
+      "name": "Fusion Tacos",
+      "description": "A unique mix of traditional tacos with a local culinary twist.",
+      "reviews": [
+        "Love the fusion of flavors!",
+        "Creative and delicious!",
+        "Will definitely come back!"
+      ]
+    },
+    {
+      "name": "Heritage Sweets",
+      "description": "Traditional sweets made with the finest ingredients.",
+      "reviews": [
+        "Melts in your mouth!",
+        "Perfect balance of sweetness!",
+        "Brings back childhood memories!"
+      ]
+    },
+    {
+      "name": "Golden Dumplings",
+      "description": "Handmade dumplings with a variety of fillings and sauces.",
+      "reviews": [
+        "Soft and juicy!",
+        "A taste of home!",
+        "So many flavors to choose from!"
+      ]
+    },
+    {
+      "name": "Crispy Crepes",
+      "description": "Thin and crispy crepes filled with sweet and savory delights.",
+      "reviews": [
+        "Best crepes I’ve had!",
+        "Super crispy and flavorful!",
+        "Perfect for breakfast or dessert!"
+      ]
+    },
+    {
+      "name": "Farmhouse Cheeses",
+      "description": "Locally made artisan cheeses with rich flavors.",
+      "reviews": [
+        "Great variety of cheeses!",
+        "Rich and creamy!",
+        "Perfect for a cheese board!"
+      ]
+    },
+    {
+      "name": "Street Shawarma",
+      "description": "Authentic Middle Eastern shawarmas packed with spices.",
+      "reviews": [
+        "Juicy and flavorful!",
+        "Perfectly spiced meat!",
+        "Best shawarma I’ve tried!"
+      ]
+    },
+    {
+      "name": "Rustic Pies",
+      "description": "Handmade pies with traditional and unique fillings.",
+      "reviews": [
+        "Buttery crust and rich fillings!",
+        "Tastes just like homemade!",
+        "Perfect balance of sweet and savory!"
+      ]
+    },
+    {
+      "name": "Flame-Grilled BBQ",
+      "description": "Smoky and flavorful grilled meats cooked to perfection.",
+      "reviews": [
+        "Tender and smoky!",
+        "Perfect BBQ flavors!",
+        "Can’t get enough!"
+      ]
+    },
+    {
+      "name": "Choco Heaven",
+      "description": "A paradise for chocolate lovers with handmade chocolates and desserts.",
+      "reviews": [
+        "So rich and indulgent!",
+        "Perfect for chocolate lovers!",
+        "Heavenly flavors!"
+      ]
+    },
+    {
+      "name": "Spice Fusion",
+      "description": "A unique blend of different world cuisines with bold spices.",
+      "reviews": [
+        "A journey of flavors!",
+        "Love the creativity!",
+        "Perfect fusion of tastes!"
+      ]
+    }
+  ]
+}
