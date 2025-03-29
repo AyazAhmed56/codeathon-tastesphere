@@ -29,14 +29,20 @@ const SavedRecipe = () => {
                 <h3 className="text-lg font-semibold text-gray-800">
                   {recipe.title}
                 </h3>
-                <a
-                  href={recipe.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-500 hover:underline mt-4 block"
-                >
-                  View Recipe
-                </a>
+
+                {/* Only show the link if sourceUrl exists */}
+                {recipe.sourceUrl ? (
+                  <a
+                    href={recipe.sourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-500 hover:underline mt-4 block"
+                  >
+                    View Recipe
+                  </a>
+                ) : (
+                  <p className="text-gray-500 mt-4">No source available</p>
+                )}
               </div>
             </div>
           ))}
