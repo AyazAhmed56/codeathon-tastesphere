@@ -1,270 +1,210 @@
 {
-  "Classic Lasagna": {
-    "description": "A hearty Italian classic with layers of cheese, sauce, and pasta.",
-    "ingredients": [
-      "Lasagna noodles",
-      "Tomato sauce",
-      "Ground beef",
-      "Ricotta cheese",
-      "Mozzarella cheese",
-      "Parmesan cheese",
-      "Garlic",
-      "Olive oil",
-      "Basil",
-      "Salt",
-      "Pepper"
-    ]
-  },
-  "Chicken Tikka Masala": {
-    "description": "A flavorful, creamy Indian dish made with spiced grilled chicken.",
-    "ingredients": [
-      "Chicken breast",
-      "Yogurt",
-      "Ginger",
-      "Garlic",
-      "Tomato paste",
-      "Garam masala",
-      "Cream",
-      "Coriander",
-      "Cumin",
-      "Salt",
-      "Pepper"
-    ]
-  },
-  "Vegetarian Sushi Rolls": {
-    "description": "Fresh and healthy sushi rolls with avocado, cucumber, and carrots.",
-    "ingredients": [
-      "Sushi rice",
-      "Nori sheets",
-      "Avocado",
-      "Cucumber",
-      "Carrot",
-      "Soy sauce",
-      "Wasabi",
-      "Pickled ginger"
-    ]
-  },
-  "Margherita Pizza": {
-    "description": "Classic Neapolitan pizza with fresh tomatoes, mozzarella, and basil.",
-    "ingredients": [
-      "Pizza dough",
-      "Tomato sauce",
-      "Fresh mozzarella",
-      "Fresh basil",
-      "Olive oil",
-      "Salt",
-      "Garlic"
-    ]
-  },
-  "Beef Stroganoff": {
-    "description": "A creamy Russian dish with sautéed beef and mushrooms.",
-    "ingredients": [
-      "Beef strips",
-      "Mushrooms",
-      "Onions",
-      "Sour cream",
-      "Butter",
-      "Garlic",
-      "Flour",
-      "Beef broth",
-      "Salt",
-      "Pepper"
-    ]
-  },
-  "Pad Thai": {
-    "description": "A popular Thai noodle dish with shrimp, peanuts, and lime.",
-    "ingredients": [
-      "Rice noodles",
-      "Shrimp",
-      "Peanuts",
-      "Eggs",
-      "Bean sprouts",
-      "Lime",
-      "Garlic",
-      "Soy sauce",
-      "Fish sauce",
-      "Chili flakes"
-    ]
-  },
-  "French Croissant": {
-    "description": "Flaky, buttery pastry perfect for breakfast.",
-    "ingredients": [
-      "Flour",
-      "Butter",
-      "Yeast",
-      "Milk",
-      "Sugar",
-      "Salt",
-      "Egg wash"
-    ]
-  },
-  "Greek Salad": {
-    "description": "A refreshing salad with feta cheese, olives, and cucumbers.",
-    "ingredients": [
-      "Cucumbers",
-      "Tomatoes",
-      "Feta cheese",
-      "Kalamata olives",
-      "Red onion",
-      "Olive oil",
-      "Lemon juice",
-      "Oregano",
-      "Salt",
-      "Pepper"
-    ]
-  },
-  "Spaghetti Carbonara": {
-    "description": "A Roman pasta dish with eggs, cheese, pancetta, and pepper.",
-    "ingredients": [
-      "Spaghetti",
-      "Egg yolks",
-      "Pancetta",
-      "Parmesan cheese",
-      "Black pepper",
-      "Salt",
-      "Olive oil"
-    ]
-  },
-  "Falafel Wrap": {
-    "description": "Middle Eastern wrap with crispy falafel, hummus, and fresh veggies.",
-    "ingredients": [
-      "Chickpeas",
-      "Garlic",
-      "Onions",
-      "Parsley",
-      "Cumin",
-      "Coriander",
-      "Flour",
-      "Pita bread",
-      "Hummus",
-      "Lettuce",
-      "Tomato"
-    ]
-  },
-  "Tandoori Chicken": {
-    "description": "A spicy, roasted Indian chicken dish marinated in yogurt.",
-    "ingredients": [
-      "Chicken legs",
-      "Yogurt",
-      "Ginger",
-      "Garlic",
-      "Tandoori masala",
-      "Lemon juice",
-      "Salt",
-      "Pepper"
-    ]
-  },
-  "Fish and Chips": {
-    "description": "Classic British meal with crispy battered fish and fries.",
-    "ingredients": [
-      "Cod fish",
-      "Flour",
-      "Beer (for batter)",
-      "Salt",
-      "Pepper",
-      "Potatoes",
-      "Vegetable oil"
-    ]
-  },
-  "Chocolate Brownie": {
-    "description": "Rich and fudgy chocolate dessert.",
-    "ingredients": [
-      "Butter",
-      "Cocoa powder",
-      "Sugar",
-      "Flour",
-      "Eggs",
-      "Vanilla extract",
-      "Salt"
-    ]
-  },
-  "Avocado Toast": {
-    "description": "Simple and delicious toast topped with mashed avocado and seasonings.",
-    "ingredients": [
-      "Bread slices",
-      "Avocado",
-      "Lemon juice",
-      "Salt",
-      "Black pepper",
-      "Red pepper flakes"
-    ]
-  },
-  "Biryani": {
-    "description": "Aromatic Indian rice dish cooked with spices and meat.",
-    "ingredients": [
-      "Basmati rice",
-      "Chicken",
-      "Yogurt",
-      "Onions",
-      "Garlic",
-      "Ginger",
-      "Biryani masala",
-      "Saffron",
-      "Cilantro",
-      "Mint leaves"
-    ]
-  },
-  "Ramen": {
-    "description": "Japanese noodle soup with broth, meat, and vegetables.",
-    "ingredients": [
-      "Ramen noodles",
-      "Chicken broth",
-      "Soy sauce",
-      "Ginger",
-      "Garlic",
-      "Eggs",
-      "Green onions",
-      "Mushrooms",
-      "Bok choy"
-    ]
-  },
-  "Caesar Salad": {
-    "description": "Crisp romaine lettuce with Caesar dressing and croutons.",
-    "ingredients": [
-      "Romaine lettuce",
-      "Caesar dressing",
-      "Parmesan cheese",
-      "Croutons",
-      "Garlic",
-      "Lemon juice",
-      "Black pepper"
-    ]
-  },
-  "Apple Pie": {
-    "description": "Classic American dessert with spiced apple filling.",
-    "ingredients": [
-      "Apples",
-      "Pie crust",
-      "Sugar",
-      "Cinnamon",
-      "Nutmeg",
-      "Butter",
-      "Flour",
-      "Egg wash"
-    ]
-  },
-  "Mango Sticky Rice": {
-    "description": "Traditional Thai dessert with sweet coconut rice and mango.",
-    "ingredients": [
-      "Sticky rice",
-      "Coconut milk",
-      "Sugar",
-      "Salt",
-      "Mango slices",
-      "Sesame seeds"
-    ]
-  },
-  "Korean BBQ": {
-    "description": "Grilled marinated meat served with side dishes.",
-    "ingredients": [
-      "Beef short ribs",
-      "Soy sauce",
-      "Garlic",
-      "Ginger",
-      "Sesame oil",
-      "Sugar",
-      "Green onions",
-      "Sesame seeds"
-    ]
-  }
+  "Classic Lasagna": [
+    "Lasagna noodles",
+    "Tomato sauce",
+    "Ground beef",
+    "Ricotta cheese",
+    "Mozzarella cheese",
+    "Parmesan cheese",
+    "Garlic",
+    "Olive oil",
+    "Basil",
+    "Salt",
+    "Pepper"
+  ],
+  "Chicken Tikka Masala": [
+    "Chicken breast",
+    "Yogurt",
+    "Ginger",
+    "Garlic",
+    "Tomato paste",
+    "Garam masala",
+    "Cream",
+    "Coriander",
+    "Cumin",
+    "Salt",
+    "Pepper"
+  ],
+  "Vegetarian Sushi Rolls": [
+    "Sushi rice",
+    "Nori sheets",
+    "Avocado",
+    "Cucumber",
+    "Carrot",
+    "Soy sauce",
+    "Wasabi",
+    "Pickled ginger"
+  ],
+  "Margherita Pizza": [
+    "Pizza dough",
+    "Tomato sauce",
+    "Fresh mozzarella",
+    "Fresh basil",
+    "Olive oil",
+    "Salt",
+    "Garlic"
+  ],
+  "Beef Stroganoff": [
+    "Beef strips",
+    "Mushrooms",
+    "Onions",
+    "Sour cream",
+    "Butter",
+    "Garlic",
+    "Flour",
+    "Beef broth",
+    "Salt",
+    "Pepper"
+  ],
+  "Pad Thai": [
+    "Rice noodles",
+    "Shrimp",
+    "Peanuts",
+    "Eggs",
+    "Bean sprouts",
+    "Lime",
+    "Garlic",
+    "Soy sauce",
+    "Fish sauce",
+    "Chili flakes"
+  ],
+  "French Croissant": [
+    "Flour",
+    "Butter",
+    "Yeast",
+    "Milk",
+    "Sugar",
+    "Salt",
+    "Egg wash"
+  ],
+  "Greek Salad": [
+    "Cucumbers",
+    "Tomatoes",
+    "Feta cheese",
+    "Kalamata olives",
+    "Red onion",
+    "Olive oil",
+    "Lemon juice",
+    "Oregano",
+    "Salt",
+    "Pepper"
+  ],
+  "Spaghetti Carbonara": [
+    "Spaghetti",
+    "Egg yolks",
+    "Pancetta",
+    "Parmesan cheese",
+    "Black pepper",
+    "Salt",
+    "Olive oil"
+  ],
+  "Falafel Wrap": [
+    "Chickpeas",
+    "Garlic",
+    "Onions",
+    "Parsley",
+    "Cumin",
+    "Coriander",
+    "Flour",
+    "Pita bread",
+    "Hummus",
+    "Lettuce",
+    "Tomato"
+  ],
+  "Tandoori Chicken": [
+    "Chicken legs",
+    "Yogurt",
+    "Ginger",
+    "Garlic",
+    "Tandoori masala",
+    "Lemon juice",
+    "Salt",
+    "Pepper"
+  ],
+  "Fish and Chips": [
+    "Cod fish",
+    "Flour",
+    "Beer (for batter)",
+    "Salt",
+    "Pepper",
+    "Potatoes",
+    "Vegetable oil"
+  ],
+  "Chocolate Brownie": [
+    "Butter",
+    "Cocoa powder",
+    "Sugar",
+    "Flour",
+    "Eggs",
+    "Vanilla extract",
+    "Salt"
+  ],
+  "Avocado Toast": [
+    "Bread slices",
+    "Avocado",
+    "Lemon juice",
+    "Salt",
+    "Black pepper",
+    "Red pepper flakes"
+  ],
+  "Biryani": [
+    "Basmati rice",
+    "Chicken",
+    "Yogurt",
+    "Onions",
+    "Garlic",
+    "Ginger",
+    "Biryani masala",
+    "Saffron",
+    "Cilantro",
+    "Mint leaves"
+  ],
+  "Ramen": [
+    "Ramen noodles",
+    "Chicken broth",
+    "Soy sauce",
+    "Ginger",
+    "Garlic",
+    "Eggs",
+    "Green onions",
+    "Mushrooms",
+    "Bok choy"
+  ],
+  "Caesar Salad": [
+    "Romaine lettuce",
+    "Caesar dressing",
+    "Parmesan cheese",
+    "Croutons",
+    "Garlic",
+    "Lemon juice",
+    "Black pepper"
+  ],
+  "Apple Pie": [
+    "Apples",
+    "Pie crust",
+    "Sugar",
+    "Cinnamon",
+    "Nutmeg",
+    "Butter",
+    "Flour",
+    "Egg wash"
+  ],
+  "Mango Sticky Rice": [
+    "Sticky rice",
+    "Coconut milk",
+    "Sugar",
+    "Salt",
+    "Mango slices",
+    "Sesame seeds"
+  ],
+  "Korean BBQ": [
+    "Beef short ribs",
+    "Soy sauce",
+    "Garlic",
+    "Ginger",
+    "Sesame oil",
+    "Sugar",
+    "Green onions",
+    "Sesame seeds"
+  ]
 }
