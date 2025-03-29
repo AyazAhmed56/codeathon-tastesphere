@@ -1,102 +1,122 @@
 [
   {
     "title": "Classic Lasagna",
-    "image": "/images/img1.jpg",
-    "description": "A hearty Italian classic with layers of cheese, sauce, and pasta."
+    "image": "/images/img19.jpg",
+    "description": "A hearty Italian classic with layers of cheese, sauce, and pasta.",
+    "price": 12.99
   },
   {
     "title": "Chicken Tikka Masala",
-    "image": "/images/img2.jpg",
-    "description": "A flavorful, creamy Indian dish made with spiced grilled chicken."
+    "image": "/images/img1.jpg",
+    "description": "A flavorful, creamy Indian dish made with spiced grilled chicken.",
+    "price": 14.99
   },
   {
     "title": "Vegetarian Sushi Rolls",
-    "image": "/images/img3.jpg",
-    "description": "Fresh and healthy sushi rolls with avocado, cucumber, and carrots."
+    "image": "/images/img2.jpg",
+    "description": "Fresh and healthy sushi rolls with avocado, cucumber, and carrots.",
+    "price": 10.99
   },
   {
     "title": "Margherita Pizza",
-    "image": "/images/img4.jpg",
-    "description": "Classic Neapolitan pizza with fresh tomatoes, mozzarella, and basil."
+    "image": "/images/img3.jpg",
+    "description": "Classic Neapolitan pizza with fresh tomatoes, mozzarella, and basil.",
+    "price": 11.99
   },
   {
     "title": "Beef Stroganoff",
-    "image": "/images/img5.jpg",
-    "description": "A creamy Russian dish with sautéed beef and mushrooms."
+    "image": "/images/img4.jpg",
+    "description": "A creamy Russian dish with sautéed beef and mushrooms.",
+    "price": 15.49
   },
   {
     "title": "Pad Thai",
-    "image": "/images/img6.jpg",
-    "description": "A popular Thai noodle dish with shrimp, peanuts, and lime."
+    "image": "/images/img5.jpg",
+    "description": "A popular Thai noodle dish with shrimp, peanuts, and lime.",
+    "price": 13.49
   },
   {
     "title": "French Croissant",
-    "image": "/images/img7.jpg",
-    "description": "Flaky, buttery pastry perfect for breakfast."
+    "image": "/images/img6.jpg",
+    "description": "Flaky, buttery pastry perfect for breakfast.",
+    "price": 3.99
   },
   {
     "title": "Greek Salad",
-    "image": "/images/img8.jpg",
-    "description": "A refreshing salad with feta cheese, olives, and cucumbers."
+    "image": "/images/img20.jpg",
+    "description": "A refreshing salad with feta cheese, olives, and cucumbers.",
+    "price": 9.99
   },
   {
     "title": "Spaghetti Carbonara",
-    "image": "/images/img9.jpg",
-    "description": "A Roman pasta dish with eggs, cheese, pancetta, and pepper."
+    "image": "/images/img7.jpg",
+    "description": "A Roman pasta dish with eggs, cheese, pancetta, and pepper.",
+    "price": 12.99
   },
   {
     "title": "Falafel Wrap",
-    "image": "/images/img10.jpg",
-    "description": "Middle Eastern wrap with crispy falafel, hummus, and fresh veggies."
+    "image": "/images/img8.jpg",
+    "description": "Middle Eastern wrap with crispy falafel, hummus, and fresh veggies.",
+    "price": 8.99
   },
   {
     "title": "Tandoori Chicken",
-    "image": "/images/img11.jpg",
-    "description": "A spicy, roasted Indian chicken dish marinated in yogurt."
+    "image": "/images/img9.jpg",
+    "description": "A spicy, roasted Indian chicken dish marinated in yogurt.",
+    "price": 14.49
   },
   {
     "title": "Fish and Chips",
-    "image": "/images/img12.jpg",
-    "description": "Classic British meal with crispy battered fish and fries."
+    "image": "/images/img10.jpg",
+    "description": "Classic British meal with crispy battered fish and fries.",
+    "price": 13.99
   },
   {
     "title": "Chocolate Brownie",
-    "image": "/images/img13.jpg",
-    "description": "Rich and fudgy chocolate dessert."
+    "image": "/images/img11.jpg",
+    "description": "Rich and fudgy chocolate dessert.",
+    "price": 4.99
   },
   {
     "title": "Avocado Toast",
-    "image": "/images/img14.jpg",
-    "description": "Simple and delicious toast topped with mashed avocado and seasonings."
+    "image": "/images/img12.jpg",
+    "description": "Simple and delicious toast topped with mashed avocado and seasonings.",
+    "price": 7.99
   },
   {
     "title": "Biryani",
-    "image": "/images/img15.jpg",
-    "description": "Aromatic Indian rice dish cooked with spices and meat."
+    "image": "/images/img13.jpg",
+    "description": "Aromatic Indian rice dish cooked with spices and meat.",
+    "price": 13.49
   },
   {
     "title": "Ramen",
-    "image": "/images/img16.jpg",
-    "description": "Japanese noodle soup with broth, meat, and vegetables."
+    "image": "/images/img14.jpg",
+    "description": "Japanese noodle soup with broth, meat, and vegetables.",
+    "price": 11.99
   },
   {
     "title": "Caesar Salad",
-    "image": "/images/img17.jpg",
-    "description": "Crisp romaine lettuce with Caesar dressing and croutons."
+    "image": "/images/img15.jpg",
+    "description": "Crisp romaine lettuce with Caesar dressing and croutons.",
+    "price": 9.49
   },
   {
     "title": "Apple Pie",
-    "image": "/images/img18.jpg",
-    "description": "Classic American dessert with spiced apple filling."
+    "image": "/img1.jpg",
+    "description": "Classic American dessert with spiced apple filling.",
+    "price": 5.99
   },
   {
     "title": "Mango Sticky Rice",
-    "image": "/images/img19.jpg",
-    "description": "Traditional Thai dessert with sweet coconut rice and mango."
+    "image": "/images/img17.jpg",
+    "description": "Traditional Thai dessert with sweet coconut rice and mango.",
+    "price": 8.49
   },
   {
     "title": "Korean BBQ",
-    "image": "/images/img20.jpg",
-    "description": "Grilled marinated meat served with side dishes."
+    "image": "/images/img18.jpg",
+    "description": "Grilled marinated meat served with side dishes.",
+    "price": 18.99
   }
 ]

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import InputForm from "../components/InputForm";
 import RecipeCard from "../components/Recipecard";
 
@@ -13,6 +13,11 @@ const Home = ({ fetchRecipes, recipes, loading, error }) => {
           <RecipeCard key={recipe.id} recipe={recipe} />
         ))}
       </div>
+      {!recipes.length && (
+        <div>
+          <img src="/images/recepie.jpg" height={200} alt="Recipe" />
+        </div>
+      )}
     </div>
   );
 };

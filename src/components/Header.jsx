@@ -9,9 +9,9 @@ const Header = () => {
           <img
             src="/taste sphere.jpg"
             alt="Taste Sphere"
-            className="h-16 w-16 rounded-full object-cover"
+            className="h-20 w-20 rounded-full object-cover"
           />
-          <h1 className="text-3xl font-extrabold">Taste Sphere</h1>
+          <h1 className="text-4xl font-bold">Taste Sphere</h1>
         </div>
 
         {/* Navigation */}

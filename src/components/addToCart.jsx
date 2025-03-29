@@ -125,7 +125,7 @@ export default function Recipes() {
             Total: ${finalAmount.toFixed(2)}
           </p>
           <button className="mt-4 w-full bg-green-500 text-white py-2 rounded-lg hover:bg-green-600">
-            Order
+            Checkout
           </button>
         </div>
       )}
