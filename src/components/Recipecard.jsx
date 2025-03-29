@@ -14,10 +14,10 @@ const RecipeCard = ({ recipe }) => {
         <h3 className="text-lg font-semibold text-gray-800">{recipe.title}</h3>
         <p className="text-gray-600 mt-2">{recipe.description}</p>
         <a
-          href={recipe.sourceUrl}
+          href="https://www.reciperadar.com/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-500 hover:underline mt-4 block"
+          className="text-blue-500 hover:underline mt-4 block cursor-pointer"
         >
           View Recipe
         </a>

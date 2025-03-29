@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const SavedRecipe = () => {
   const [savedRecipes, setSavedRecipes] = useState([]);
 
   useEffect(() => {
     const recipes = JSON.parse(localStorage.getItem("savedRecipes")) || [];
+    console.log(recipes);
     setSavedRecipes(recipes);
   }, []);
 
@@ -30,19 +32,15 @@ const SavedRecipe = () => {
                   {recipe.title}
                 </h3>
 
-                {/* Only show the link if sourceUrl exists */}
-                {recipe.sourceUrl ? (
-                  <a
-                    href={recipe.sourceUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-500 hover:underline mt-4 block"
-                  >
-                    View Recipe
-                  </a>
-                ) : (
-                  <p className="text-gray-500 mt-4">No source available</p>
-                )}
+                {/* Use internal navigation instead of external link */}
+                <a
+                  href={recipe.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 hover:underline mt-4 block cursor-pointer"
+                >
+                  View Recipe
+                </a>
               </div>
             </div>
           ))}
